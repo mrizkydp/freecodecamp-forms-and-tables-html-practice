@@ -4,3 +4,5 @@ A collection of Forms and Tables HTML practice projects built while learning the
 - In this workshop, you will practice working with HTML forms by building a Hotel Feedback Form.
 ## Worshop Final Exams Table
 - In this workshop, you will practice working with HTML tables by building a final exam table for a group of students.
+## Lab Book Catalog Table
+- Build a Book Catalog Table
